@@ -60,17 +60,17 @@
                     <div>
                         <!-- Button trigger modal -->
                         <button type="button" class="btn btn-purchase" data-bs-toggle="modal"
-                            data-bs-target="#exampleModal">
+                            data-bs-target="#staticBackdrop">
                             Purchase
                         </button>
 
                         <!-- Modal -->
-                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-                            aria-hidden="true">
-                            <div class="modal-dialog">
+                        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false"
+                            tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                                        <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
                                         <button type="button" class="btn-close" data-bs-dismiss="modal"
                                             aria-label="Close"></button>
                                     </div>
@@ -80,14 +80,14 @@
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-secondary"
                                             data-bs-dismiss="modal">Close</button>
-                                        <button type="button" class="btn btn-primary">Save changes</button>
+                                        <button type="button" class="btn btn-primary">Understood</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row col-lg-6">
+                <div class="row col-lg-6 py-5">
                     <img src="images/header-bike.png" alt="">
                 </div>
             </div>
@@ -97,7 +97,25 @@
     <!-- Header End -->
 
     <main>
-
+        <!-- Featured Bike Section Start -->
+        <section class="container pt-5">
+            <h1 class="text-center feature-text">Fetured Bikes 2021</h1>
+            <p class="text-center"><span class="best-bike-text">Best bike collection</span></p>
+            <hr class="text-center">
+            <div>
+                <div class="row">
+                    <div class="row col-lg-4 px-5">
+                        <img class="image-gray" src="images/feature-bike.jpg" alt="">
+                    </div>
+                    <div class="row col-lg-4 px-5">
+                        <img src="images/feature-bike.jpg" alt="">
+                    </div>
+                    <div class="row col-lg-4 px-5">
+                        <img class="image-gray" src="images/feature-bike.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <!-- Bootstrap Script Link -->

@@ -1,6 +1,7 @@
 /* Header CSS */
 .header-bg-color{
     background-color: #264653;
+    padding-bottom: 96px;
 }
 
 
@@ -21,4 +22,21 @@
     color: white;
     background-color: #E76F51;
     padding: 10px 46px;
+}
+
+
+
+/* Main Section Feature Part CSS */
+.feature-text{
+    font-weight: 600;
+    font-size: 48px;
+}
+.best-bike-text{
+    color: #E76F51;
+}
+hr{
+    color: #E76F51;
+}
+.image-gray{
+    filter: grayscale(100%);
 }
