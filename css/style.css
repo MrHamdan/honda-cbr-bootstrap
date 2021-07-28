@@ -1,0 +1,21 @@
+/* Header CSS */
+.header-bg-color{
+    background-color: #264653;
+}
+
+
+/* Navbar CSS */
+
+.btn-login{
+    color: white;
+    background-color: #E76F51;
+}
+
+
+/* Header Banner CSS */
+
+.btn-purchase{
+    color: white;
+    background-color: #E76F51;
+    padding: 10px 46px;
+}
