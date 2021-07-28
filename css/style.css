@@ -35,6 +35,9 @@
     color: #E76F51;
 }
 hr{
+    width: 10%;
+    margin-right: auto;
+    margin-left: auto;
     color: #E76F51;
 }
 .image-gray{
@@ -47,4 +50,8 @@ hr{
 .latest-text{
     font-weight: 600;
     font-size: 48px;
+}
+
+.card-border-radius{
+    border-radius: 20px;
 }
