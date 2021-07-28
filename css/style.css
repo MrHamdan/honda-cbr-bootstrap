@@ -5,7 +5,10 @@
 
 
 /* Navbar CSS */
-
+.navbar{
+    padding-top: 42px;
+    padding-bottom: 69px;
+}
 .btn-login{
     color: white;
     background-color: #E76F51;
