@@ -239,10 +239,10 @@
         <section class="container py-5">
             <h1 class="text-center faq-text">Frequently Asked <span class="question-text">Questions</span></h1>
             <div class="row justify-content-center align-items-center py-5">
-                <div class="row col-lg-6 py-5">
+                <div class="row col-lg-4 py-5 me-5">
                     <img src="images/faq.png" alt="">
                 </div>
-                <div class="row col-lg-6 py-5">
+                <div class="row col-lg-5 py-5 ms-5">
                     <div class="accordion" id="accordionPanelsStayOpenExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -304,14 +304,64 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
+                                    aria-controls="panelsStayOpen-collapseThree">
+                                    Accordion Item #4
+                                </button>
+                            </h2>
+                            <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse"
+                                aria-labelledby="panelsStayOpen-headingThree">
+                                <div class="accordion-body">
+                                    <strong>This is the third item's accordion body.</strong> It is hidden by default,
+                                    until the collapse plugin adds the appropriate classes that we use to style each
+                                    element. These classes control the overall appearance, as well as the showing and
+                                    hiding via CSS transitions. You can modify any of this with custom CSS or overriding
+                                    our default variables. It's also worth noting that just about any HTML can go within
+                                    the <code>.accordion-body</code>, though the transition does limit overflow.
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
     </main>
-    <footer>
-
+    <footer class="footer-bg-color py-5">
+        <section class="container">
+            <div class="row align-items-center">
+                <div class="row col-lg-6">
+                    <ul>
+                        <li>
+                            <a href="">Download Now</a>
+                            <a href="">License</a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="">About</a>
+                            <a href="">Features</a>
+                            <a href="">Pricing</a>
+                            <a href="">Careers</a>
+                            <a href="">Help</a>
+                            <a href="">Privacy Policy</a>
+                        </li>
+                    </ul>
+                    <p class="text-white footer-text">© 2020 bike. All rights reserved</p>
+                </div>
+                <div class="row col-lg-6">
+                    <div class="text-end">
+                        <h5 class="text-white py-3">Get The App</h5>
+                        <img class="apps-logo" src="images/App Store Badge.png" alt="">
+                        <hr class="dummy-hr">
+                        <img class="apps-logo" src="images/Google Play Badge.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
     </footer>
 
     <!-- Bootstrap Script Link -->

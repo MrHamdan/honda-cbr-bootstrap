@@ -98,3 +98,37 @@ hr{
 .question-text{
     color: #E76F51;
 }
+
+
+
+/* Footer Section Part CSS  */
+
+.footer-bg-color{
+    background-color: black;
+}
+
+
+.download-license{
+    margin: 0px 30px;
+}
+ul li {
+    list-style: none;
+}
+ul li a{
+    
+    color:  white;
+    text-decoration: none;
+    padding: 56px 20px;
+}
+.footer-text{
+    margin-left: 20px;
+}
+
+
+.apps-logo{
+    width: 150px;
+    height: 40px;
+}
+.dummy-hr{
+    width: 0px;
+}
