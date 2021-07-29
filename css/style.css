@@ -110,16 +110,7 @@ hr{
 }
 
 
-/* Main section Contact Us Part CSS  */
 
-.form{
-    border: 1px solid black;
-    border-radius: 20px;
-    padding: 20px;
-}
-.us-text-color{
-    color: #E76F51;
-}
 
 
 /* Main section New Bike Part CSS  */
@@ -149,6 +140,21 @@ hr{
     margin-left: auto;
     color: #E76F51;
 }
+
+
+
+/* Main section Contact Us Part CSS  */
+
+.form{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.us-text-color{
+    color: #E76F51;
+}
+
+
 
 
 
