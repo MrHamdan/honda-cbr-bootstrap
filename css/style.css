@@ -150,6 +150,18 @@ hr{
     color: #E76F51;
 }
 
+
+
+/* Main section Bike Review Part CSS  */
+
+.bike-review-text{
+    font-weight: 600;
+    font-size: 36px;
+}
+.review-text{
+    color: #E76F51;
+}
+
 /* Main section Contact Us Part CSS  */
 
 .form{
