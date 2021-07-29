@@ -110,6 +110,18 @@ hr{
 }
 
 
+/* Main section Contact Us Part CSS  */
+
+.form{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.us-text-color{
+    color: #E76F51;
+}
+
+
 
 /* Footer Section Part CSS  */
 
