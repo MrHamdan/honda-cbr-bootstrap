@@ -149,10 +149,6 @@ hr{
 .model-text{
     color: #E76F51;
 }
-.img-hover img:hover{
-    transform: scale(1.4);
-    transition: 2s;
-}
 
 /* Main section Contact Us Part CSS  */
 
