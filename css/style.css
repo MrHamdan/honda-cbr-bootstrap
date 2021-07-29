@@ -141,7 +141,18 @@ hr{
     color: #E76F51;
 }
 
+/* Main section More Bike Detail Section  */
 
+.bike-name-color{
+    color: #E76F51;
+}
+.model-text{
+    color: #E76F51;
+}
+.img-hover img:hover{
+    transform: scale(1.4);
+    transition: 2s;
+}
 
 /* Main section Contact Us Part CSS  */
 
