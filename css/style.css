@@ -122,6 +122,35 @@ hr{
 }
 
 
+/* Main section New Bike Part CSS  */
+
+.new-bike-bg-color{
+    border-radius: 20px;
+    background-color: #264653;
+}
+
+.btn-bike-buy-button{
+    color: white;
+    background-color: #E76F51;
+}
+.carousel{
+    border-radius: 20px;
+}
+.new-bike-text{
+    font-weight: 600;
+    font-size: 36px;
+}
+.bike-text{
+    color: #E76F51;
+}
+.bike-text-hr{
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    color: #E76F51;
+}
+
+
 
 /* Footer Section Part CSS  */
 
