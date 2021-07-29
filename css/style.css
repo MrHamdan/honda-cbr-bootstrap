@@ -56,6 +56,16 @@ hr{
     border-radius: 20px;
 }
 
+.btn-read-more{
+    border: 1px solid #E76F51;
+    color: black;
+    font-weight: 600;
+}
+.btn-read-more:hover{
+    background-color: #E76F51;
+    color: white;
+}
+
 
 
 
@@ -106,8 +116,6 @@ hr{
 .footer-bg-color{
     background-color: black;
 }
-
-
 .download-license{
     margin: 0px 30px;
 }
@@ -132,3 +140,13 @@ ul li a{
 .dummy-hr{
     width: 0px;
 }
+
+
+
+
+
+
+
+
+
+
