@@ -55,3 +55,23 @@ hr{
 .card-border-radius{
     border-radius: 20px;
 }
+
+
+
+
+/* Main section Happy Clients Part CSS  */
+
+
+.happy-text{
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.client-says-text{
+    color: #E76F51;
+}
+
+.client-img{
+    width: 149px;
+    height: 149px;
+}
