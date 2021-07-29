@@ -75,3 +75,26 @@ hr{
     width: 149px;
     height: 149px;
 }
+
+.fa-star{
+    color: #E77C40;
+}
+
+.client-name-text a{
+    text-decoration: none;
+}
+.client-name-text{
+    padding-top: 15px;
+}   
+
+
+
+/* Main section Frequently Asked Part CSS  */
+
+.faq-text{
+    font-weight: 600;
+    font-size: 48px;
+}
+.question-text{
+    color: #E76F51;
+}
